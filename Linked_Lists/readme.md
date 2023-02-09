@@ -2,9 +2,9 @@
 
 1. Remove duplicates in a linked list
 
-2. Return Kth to last node: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/
+2. Return Kth to Last Node: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/
 
-3. Delete middle node
+3. Delete Middle Node: https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/ (**)
 
 4. Partition list around a pivot (smaller elements are placed before pivot and other elements are placed after pivot)
 
