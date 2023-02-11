@@ -1,6 +1,6 @@
 ## Chapter 2 in the Interview Questions section.
 
-1. Remove duplicates in a linked list
+1. Remove duplicates in a linked list: https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
 
 2. Return Kth to Last Node: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/
 
