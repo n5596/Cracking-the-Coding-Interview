@@ -14,7 +14,7 @@
       
       Related (numbers are not in backward order): https://leetcode.com/problems/add-two-numbers-ii/ (**)
 
-6. Check if a linked list is a palindrome
+6. Check if a linked list is a palindrome: https://leetcode.com/problems/palindrome-linked-list/ (** Great approach)
 
 7. Determine if two linked lists intersect
 
