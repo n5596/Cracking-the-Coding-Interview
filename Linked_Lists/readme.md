@@ -16,6 +16,6 @@
 
 6. Check if a linked list is a palindrome: https://leetcode.com/problems/palindrome-linked-list/ (** Great approach)
 
-7. Determine if two linked lists intersect
+7. Determine if two linked lists intersect: https://leetcode.com/problems/intersection-of-two-linked-lists/ (**)
 
 8. Detect if there is a loop in the linked list
