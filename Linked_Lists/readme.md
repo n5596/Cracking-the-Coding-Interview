@@ -18,4 +18,4 @@
 
 7. Determine if two linked lists intersect: https://leetcode.com/problems/intersection-of-two-linked-lists/ (**)
 
-8. Detect if there is a loop in the linked list
+8. Detect if there is a loop in the linked list: https://leetcode.com/problems/linked-list-cycle-ii/ (**)
