@@ -9,7 +9,9 @@
 4. Partition list around a pivot (smaller elements are placed before pivot and other elements are placed after pivot): https://leetcode.com/problems/partition-list/
 
 5. Add the numbers represented by two linked lists
+
       Same: https://leetcode.com/problems/add-two-numbers/
+      
       Related (numbers are not in backward order): https://leetcode.com/problems/add-two-numbers-ii/ (**)
 
 6. Check if a linked list is a palindrome
