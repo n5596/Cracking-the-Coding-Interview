@@ -1,4 +1,4 @@
-## Chapter 2 in the Interview Questions section.
+## Chapter 2
 
 1. Remove duplicates in a linked list: https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
 
