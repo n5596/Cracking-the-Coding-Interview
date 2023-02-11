@@ -6,7 +6,7 @@
 
 3. Delete Middle Node: https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/ (**)
 
-4. Partition list around a pivot (smaller elements are placed before pivot and other elements are placed after pivot)
+4. Partition list around a pivot (smaller elements are placed before pivot and other elements are placed after pivot): https://leetcode.com/problems/partition-list/
 
 5. Add the numbers represented by two linked lists
 
