@@ -14,7 +14,9 @@ Chapter 4 in the Interview Questions section.
 
 6. Successor: https://www.lintcode.com/problem/448/ (**)
 
-7. Build Order:
+7. Build Order: https://leetcode.com/problems/course-schedule-ii/ (**)
+
+      non-DFS: checking for all nodes with incoming[node] == 0 and adding them to a queue.
 
 8. First Common Ancestor:
 
