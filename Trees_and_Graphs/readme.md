@@ -11,6 +11,10 @@ Chapter 4 in the Interview Questions section.
 4. Check Balanced: https://leetcode.com/problems/balanced-binary-tree/ (**)
 
 5. Validate BST: https://leetcode.com/problems/validate-binary-search-tree/ (**)
+      
+      min-max approach: easier to implement but it's a bit confusing. learn this for interviews.
+      
+      inorder approach: if we're not using a list to store the nodes in order, it's difficult to implement but the logic is simple
 
 6. Successor: https://www.lintcode.com/problem/448/ (**)
 
