@@ -10,10 +10,16 @@ Chapter 4 in the Interview Questions section.
 
 4. Check Balanced: https://leetcode.com/problems/balanced-binary-tree/ (**)
 
-5. Validate BST:
+5. Validate BST: https://leetcode.com/problems/validate-binary-search-tree/ (**)
 
-6. Successor:
+6. Successor: https://www.lintcode.com/problem/448/ (**)
 
 7. Build Order:
 
 8. First Common Ancestor:
+
+9. BST Sequences:
+
+10. Check Subtree:
+
+11. Paths with Sum:
