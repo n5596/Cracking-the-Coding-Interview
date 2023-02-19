@@ -21,8 +21,14 @@ Chapter 4 in the Interview Questions section.
 7. Build Order: https://leetcode.com/problems/course-schedule-ii/ (**)
 
       non-DFS: checking for all nodes with incoming[node] == 0 and adding them to a queue.
+      
+      DFS: finding nodes on which no other node depends via dfs and adding them to an array in that particular array.
 
-8. First Common Ancestor:
+8. First Common Ancestor: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+      via parents: storing parent info and iterating via parents of p and q
+      
+      optimized DFS: passing flags to declare how many nodes have been found
 
 9. BST Sequences:
 
