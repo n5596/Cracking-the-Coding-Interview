@@ -26,12 +26,16 @@ Chapter 4 in the Interview Questions section.
 
 8. First Common Ancestor: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
-      via parents: storing parent info and iterating via parents of p and q
+      via parents: storing parent info and iterating via parents of p and q 
       
       optimized DFS: passing flags to declare how many nodes have been found
 
 9. BST Sequences:
 
-10. Check Subtree:
+10. Check Subtree: https://leetcode.com/problems/subtree-of-another-tree/
+
+      DFS: iterate through nodes and check if subtrees match
+      
+      pre-order: checking if pre order string of subtree is a substring of pre order string of tree (**)
 
 11. Paths with Sum:
