@@ -6,3 +6,5 @@
   Brute force passes the judge.
 
 #### 4. Next Number: https://www.codingninjas.com/codestudio/problems/nearest-numbers-with-the-same-number-of-set-bits_1172161?leftPanelTab=0 (**)
+
+#### 6. Conversion: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/ 
