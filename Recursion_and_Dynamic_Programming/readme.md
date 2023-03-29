@@ -6,7 +6,9 @@
 
 #### 3. Magic Index (duplicates allowed): https://www.codingninjas.com/codestudio/problems/magic-index_1199229?leftPanelTab=0 (**)
 
-#### 4. Power Set
+#### 4. Power Set: https://leetcode.com/problems/subsets/ (**)
+
+    Take a look at the combinatorics approach: it's not intuitive at all
 
 #### 5. Recursive Multiply
 
