@@ -16,7 +16,11 @@
     
 #### 6. Towers of Hanoi: https://www.codingninjas.com/codestudio/problems/tower-of-hanoi_981323?leftPanelTab=0 (**)
 
-#### 7. Permutations without Dups
+#### 7. Permutations without Dups: https://leetcode.com/problems/permutations/ (**)
+
+    Approach 1: Recursively finding the permutations for n-1. Inserting nums[idx] at each possible location in all the perms[n-1].
+    
+    Approach 2: Recursively find the permutations of substrings and prepend nums[i] (need a loop for i). Non-intuitive so take a look at this.
 
 #### 8. Permutations with Duplicates
 
