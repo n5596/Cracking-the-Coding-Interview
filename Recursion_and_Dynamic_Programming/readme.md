@@ -24,7 +24,7 @@
 
 #### 8. Permutations with Duplicates: https://leetcode.com/problems/permutations-ii/ (**)
 
-#### 9. Parens
+#### 9. Parens: https://leetcode.com/problems/generate-parentheses/ (**)
 
 #### 10. Paint Fill
 
