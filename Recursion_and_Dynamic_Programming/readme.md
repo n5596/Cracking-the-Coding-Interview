@@ -22,7 +22,7 @@
     
     Approach 2: Recursively find the permutations of substrings and prepend nums[i] (need a loop for i). Non-intuitive so take a look at this.
 
-#### 8. Permutations with Duplicates
+#### 8. Permutations with Duplicates: https://leetcode.com/problems/permutations-ii/ (**)
 
 #### 9. Parens
 
