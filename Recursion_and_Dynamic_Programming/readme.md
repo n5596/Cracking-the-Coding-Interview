@@ -14,7 +14,7 @@
 
     Similar: https://leetcode.com/problems/divide-two-integers/
     
-#### 6. Towers of Hanoi
+#### 6. Towers of Hanoi: https://www.codingninjas.com/codestudio/problems/tower-of-hanoi_981323?leftPanelTab=0 (**)
 
 #### 7. Permutations without Dups
 
