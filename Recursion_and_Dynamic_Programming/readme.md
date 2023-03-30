@@ -10,8 +10,10 @@
 
     Take a look at the combinatorics approach: it's not intuitive at all
 
-#### 5. Recursive Multiply
+#### 5. Recursive Multiply: https://www.codingninjas.com/codestudio/problems/recursive-multiply_1172216?leftPanelTab=0 (**)
 
+    Similar: https://leetcode.com/problems/divide-two-integers/
+    
 #### 6. Towers of Hanoi
 
 #### 7. Permutations without Dups
