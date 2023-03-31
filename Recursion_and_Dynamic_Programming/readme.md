@@ -35,3 +35,5 @@
 #### 13. Stack of Boxes
 
 #### 14. Boolean Evaluation: https://www.codingninjas.com/codestudio/problems/problem-name-boolean-evaluation_1214650?leftPanelTab=1 (** Took me hours)
+
+    Use mod = (10**9)+7 instead of mod = pow(10, 9)+7. The former is an int whereas the latter is a float. If you use the latter, the answer will also be a float and might be wrong when compared to the online judge.
