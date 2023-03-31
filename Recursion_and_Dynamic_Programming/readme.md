@@ -30,7 +30,7 @@
 
 #### 11. Coins
 
-#### 12. Eight Queens
+#### 12. Eight Queens: https://leetcode.com/problems/n-queens/ (**)
 
 #### 13. Stack of Boxes
 
