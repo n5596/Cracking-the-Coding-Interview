@@ -6,7 +6,9 @@
     
      Modification of bucket sort
 
-#### 3. Search in a Rotated Array
+#### 3. Search in a Rotated Array:
+
+        Same: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ (**)
 
 #### 4. Sorted Search
 
