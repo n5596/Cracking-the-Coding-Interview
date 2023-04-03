@@ -2,7 +2,9 @@
 
 #### 1. Sorted Merge: https://leetcode.com/problems/merge-sorted-array/
 
-#### 2. Group Anagrams
+#### 2. Group Anagrams: https://leetcode.com/problems/group-anagrams/ 
+    
+     Modification of bucket sort
 
 #### 3. Search in a Rotated Array
 
