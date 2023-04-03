@@ -14,8 +14,10 @@
 #### 4. Sorted Search
 
 #### 5. Sparse Search: https://www.codingninjas.com/codestudio/problems/sparse-search_1199334?leftPanelTab=1 (**)
+ 
+#### 6. Sort Big File (Theoretical):
 
-#### 6. Sort Big File
+    External sort: Divide a big file (20 GB) into smaller chunks. Sort the chunks separately and save them back to the system. After the sorting operation has been performed, merge the sorted chunks.
 
 #### 7. Missing Int
 
