@@ -9,6 +9,7 @@
 #### 3. Search in a Rotated Array:
 
         Same: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ (**)
+        Easier version with pivot: https://leetcode.com/problems/search-in-rotated-sorted-array/ (**)
 
 #### 4. Sorted Search
 
