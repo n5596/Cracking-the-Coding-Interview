@@ -8,7 +8,7 @@
 
     Hard: https://leetcode.com/problems/permutation-in-string/
 
-#### 3. URLify:
+#### 3. URLify: https://www.codingninjas.com/codestudio/problems/replace-spaces_1172172?leftPanelTab=0
 
 #### 4. Palindrome Permutation: https://www.lintcode.com/submission/30748843/?action_type=1
 
