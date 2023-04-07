@@ -4,7 +4,9 @@
 
     Similar: https://leetcode.com/problems/contains-duplicate/ (Cannot use the bit vector approach as num[i] ranges from -10^9 to 10^9).
 
-#### 2. Check Permutation:
+#### 2. Check Permutation: https://leetcode.com/problems/valid-anagram/
+
+    Hard: https://leetcode.com/problems/permutation-in-string/
 
 #### 3. URLify:
 
