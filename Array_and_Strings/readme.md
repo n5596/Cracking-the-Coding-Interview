@@ -2,6 +2,8 @@
 
 #### 1. Is Unique:
 
+    Similar: https://leetcode.com/problems/contains-duplicate/ (Cannot use the bit vector approach as num[i] ranges from -10^9 to 10^9).
+
 #### 2. Check Permutation:
 
 #### 3. URLify:
