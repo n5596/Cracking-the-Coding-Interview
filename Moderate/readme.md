@@ -19,3 +19,9 @@
     https://www.geeksforgeeks.org/find-largest-two-distinct-numbers-without-using-conditional-statements-operators/#
 
 #### 8. English Int : https://leetcode.com/problems/integer-to-english-words/ (**)
+
+#### 9. 
+
+#### 10. Living People: https://leetcode.com/problems/maximum-population-year/ (**) 
+
+    Similar as the leetcode problem does not count the death year.
