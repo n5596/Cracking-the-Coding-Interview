@@ -9,3 +9,5 @@
 #### 4. Tic Tac Win: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ 
 
     Using a 3x3 board and hard coded logic.
+
+#### 5. Factorial Zeros: https://leetcode.com/problems/factorial-trailing-zeroes/ (**)
