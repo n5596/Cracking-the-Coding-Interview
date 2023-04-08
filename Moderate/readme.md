@@ -13,3 +13,6 @@
 #### 5. Factorial Zeros: https://leetcode.com/problems/factorial-trailing-zeroes/ (**)
 
 #### 6. Smallest Difference: https://www.codingninjas.com/codestudio/problems/smallest-difference-pair-of-values-from-two-unsorted-arrays_1199177?leftPanelTab=0
+
+#### 7. Number Max (**)
+    GFG Approach: Much easier to understand but not sure if we can use the bool() function. https://www.geeksforgeeks.org/find-largest-two-distinct-numbers-without-using-conditional-statements-operators/#
