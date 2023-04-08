@@ -15,4 +15,5 @@
 #### 6. Smallest Difference: https://www.codingninjas.com/codestudio/problems/smallest-difference-pair-of-values-from-two-unsorted-arrays_1199177?leftPanelTab=0
 
 #### 7. Number Max (**)
-    GFG Approach: Much easier to understand but not sure if we can use the bool() function. https://www.geeksforgeeks.org/find-largest-two-distinct-numbers-without-using-conditional-statements-operators/#
+    GFG Approach: Much easier to understand but not sure if we can use the bool() function. NOTE: This approach only works when a > 0 and b > 0.
+    https://www.geeksforgeeks.org/find-largest-two-distinct-numbers-without-using-conditional-statements-operators/#
