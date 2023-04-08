@@ -11,3 +11,5 @@
     Using a 3x3 board and hard coded logic.
 
 #### 5. Factorial Zeros: https://leetcode.com/problems/factorial-trailing-zeroes/ (**)
+
+#### 6. Smallest Difference: https://www.codingninjas.com/codestudio/problems/smallest-difference-pair-of-values-from-two-unsorted-arrays_1199177?leftPanelTab=0
