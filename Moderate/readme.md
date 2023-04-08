@@ -17,3 +17,5 @@
 #### 7. Number Max (**)
     GFG Approach: Much easier to understand but not sure if we can use the bool() function. NOTE: This approach only works when a > 0 and b > 0.
     https://www.geeksforgeeks.org/find-largest-two-distinct-numbers-without-using-conditional-statements-operators/#
+
+#### 8. English Int : https://leetcode.com/problems/integer-to-english-words/ (**)
