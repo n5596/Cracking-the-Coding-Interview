@@ -5,3 +5,7 @@
     Approach 1: Addition logic seems to be more intuitive than the subtraction logic mentioned in the book.
     
     Approach 2: Bit manipulation logic (**)
+
+#### 4. Tic Tac Win: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ 
+
+    Using a 3x3 board and hard coded logic.
