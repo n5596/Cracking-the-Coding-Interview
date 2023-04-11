@@ -40,7 +40,9 @@
 
 #### 17. Contiguous Sequence: https://leetcode.com/problems/maximum-subarray/ (**)
 
-#### 18. Pattern Matcher
+#### 18. Pattern Matcher: Look at the problem given in the book. The logic is not intuitive at all. (**)
+
+    Easy version: https://leetcode.com/problems/word-pattern/
 
 #### 19. Pond Sizes
 
