@@ -38,7 +38,7 @@
 
 #### 16. Sub Sort: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ (**)
 
-#### 17. Contiguous Sequence
+#### 17. Contiguous Sequence: https://leetcode.com/problems/maximum-subarray/ (**)
 
 #### 18. Pattern Matcher
 
