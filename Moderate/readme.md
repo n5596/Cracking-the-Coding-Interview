@@ -25,3 +25,7 @@
 #### 10. Living People: https://leetcode.com/problems/maximum-population-year/ (**) 
 
     Similar as the leetcode problem does not count the death year.
+    
+#### 14. Best Line: https://leetcode.com/problems/max-points-on-a-line/ (**)
+
+#### 16. Sub Sort:
