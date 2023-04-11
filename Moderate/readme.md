@@ -26,6 +26,34 @@
 
     Similar as the leetcode problem does not count the death year.
     
+#### 11. Diving Board
+
+#### 12. XML Encoding
+
+#### 13. Bisect Squares
+    
 #### 14. Best Line: https://leetcode.com/problems/max-points-on-a-line/ (**)
 
-#### 16. Sub Sort:
+#### 15. Master Mind
+
+#### 16. Sub Sort: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ (**)
+
+#### 17. Contiguous Sequence
+
+#### 18. Pattern Matcher
+
+#### 19. Pond Sizes
+
+#### 20. T9
+
+#### 21. Sum Swap
+
+#### 22. Langtons Ant
+
+#### 23. Rand7 from Rand5
+
+#### 24. Pairs with Sum
+
+#### 25. LRU Cache
+
+#### 26. Calculator
