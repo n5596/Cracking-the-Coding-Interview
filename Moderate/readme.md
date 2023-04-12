@@ -46,6 +46,10 @@
 
 #### 19. Pond Sizes
 
+    Similar 1: https://www.codingninjas.com/codestudio/problems/largest-island_840701?leftPanelTab=0
+    
+    Similar 2: https://leetcode.com/problems/number-of-islands/
+
 #### 20. T9
 
 #### 21. Sum Swap
