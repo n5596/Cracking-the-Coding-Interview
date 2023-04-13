@@ -65,7 +65,7 @@
 
 #### 23. Rand7 from Rand5: https://leetcode.com/problems/implement-rand10-using-rand7/ (**)
 
-#### 24. Pairs with Sum
+#### 24. Pairs with Sum: https://leetcode.com/problems/max-number-of-k-sum-pairs/ (**)
 
 #### 25. LRU Cache
 
