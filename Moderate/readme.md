@@ -52,7 +52,7 @@
 
 #### 20. T9: https://www.codingninjas.com/codestudio/problems/phone-code_1230549?topList=cracking-the-coding-interview-questions&leftPanelTab=0 (**)
 
-    Easier: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+    Easier: https://leetcode.com/problems/letter-combinations-of-a-phone-number/  Recursive strategy works here as we don't have a list of words to look through.
 
 #### 21. Sum Swap
 
