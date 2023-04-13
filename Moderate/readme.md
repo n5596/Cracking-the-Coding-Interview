@@ -65,6 +65,8 @@
 
 #### 23. Rand7 from Rand5
 
+    Similar: https://leetcode.com/problems/implement-rand10-using-rand7/
+
 #### 24. Pairs with Sum
 
 #### 25. LRU Cache
