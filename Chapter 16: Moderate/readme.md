@@ -5,6 +5,10 @@
     Approach 1: Addition logic seems to be more intuitive than the subtraction logic mentioned in the book.
     
     Approach 2: Bit manipulation logic (**)
+    
+#### 2. Word Frequencies:
+
+#### 3. Intersection:
 
 #### 4. Tic Tac Win: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ 
 
@@ -20,7 +24,7 @@
 
 #### 8. English Int : https://leetcode.com/problems/integer-to-english-words/ (**)
 
-#### 9. 
+#### 9. Operations
 
 #### 10. Living People: https://leetcode.com/problems/maximum-population-year/ (**) 
 
