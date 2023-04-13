@@ -71,6 +71,6 @@
 
 #### 24. Pairs with Sum: https://leetcode.com/problems/max-number-of-k-sum-pairs/ (**)
 
-#### 25. LRU Cache
+#### 25. LRU Cache: https://leetcode.com/problems/lru-cache/ (** Took me hours)
 
 #### 26. Calculator
