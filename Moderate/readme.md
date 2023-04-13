@@ -63,9 +63,7 @@
 
     Similar: https://www.codingninjas.com/codestudio/problems/ninja-ant_1229380?topList=cracking-the-coding-interview-questions&leftPanelTab=0 (**)
 
-#### 23. Rand7 from Rand5
-
-    Similar: https://leetcode.com/problems/implement-rand10-using-rand7/
+#### 23. Rand7 from Rand5: https://leetcode.com/problems/implement-rand10-using-rand7/ (**)
 
 #### 24. Pairs with Sum
 
