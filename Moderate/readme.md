@@ -61,6 +61,8 @@
 
 #### 22. Langtons Ant
 
+    Similar: https://www.codingninjas.com/codestudio/problems/ninja-ant_1229380?topList=cracking-the-coding-interview-questions&leftPanelTab=0 (**)
+
 #### 23. Rand7 from Rand5
 
 #### 24. Pairs with Sum
