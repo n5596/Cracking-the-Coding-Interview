@@ -50,7 +50,9 @@
     
     Similar 2: https://leetcode.com/problems/number-of-islands/
 
-#### 20. T9
+#### 20. T9: https://www.codingninjas.com/codestudio/problems/phone-code_1230549?topList=cracking-the-coding-interview-questions&leftPanelTab=0 (**)
+
+    Easier: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 #### 21. Sum Swap
 
