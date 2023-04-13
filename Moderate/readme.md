@@ -54,7 +54,10 @@
 
     Easier: https://leetcode.com/problems/letter-combinations-of-a-phone-number/  Recursive strategy works here as we don't have a list of words to look through.
 
-#### 21. Sum Swap
+#### 21. Sum Swap: https://www.codingninjas.com/codestudio/problems/sum-swaps_1215008?topList=cracking-the-coding-interview-questions&leftPanelTab=0 (**)
+
+    Set approach: O(n+m)
+    Sorting + binary search approach: O(nlogn+mlogm)
 
 #### 22. Langtons Ant
 
