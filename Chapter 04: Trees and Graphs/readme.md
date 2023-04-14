@@ -1,4 +1,4 @@
-## Chapter 4 in the Interview Questions section.
+## Chapter 4 of the Interview Questions section
 
 #### 1. Route Between Nodes
 
