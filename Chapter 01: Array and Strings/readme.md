@@ -1,4 +1,4 @@
-## Chapter 1 in the Interview Questions section.
+## Chapter 1 of the Interview Questions section
 
 #### 1. Is Unique:
 
