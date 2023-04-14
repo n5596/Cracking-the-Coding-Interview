@@ -1,4 +1,4 @@
-## Chapter 3 in the Interview Questions section.
+## Chapter 3 of the Interview Questions section
 
 #### 1. Three in one:
 #### 2. Stack min: https://leetcode.com/problems/min-stack/ (**)
