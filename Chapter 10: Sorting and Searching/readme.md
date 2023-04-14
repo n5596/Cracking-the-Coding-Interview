@@ -1,4 +1,4 @@
-## Chapter 10 of Cracking the Coding Interview
+## Chapter 10 of the Interview Questions section
 
 #### 1. Sorted Merge: https://leetcode.com/problems/merge-sorted-array/
 
