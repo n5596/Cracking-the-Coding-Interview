@@ -1,6 +1,8 @@
 ## Chapter 17 of the Interview Questions section
 
-#### 1. Add without Plus
+#### 1. Add without Plus: https://leetcode.com/problems/sum-of-two-integers/ (**)
+
+  Similar: https://leetcode.com/problems/add-binary/
 
 #### 2. Shuffle
 
