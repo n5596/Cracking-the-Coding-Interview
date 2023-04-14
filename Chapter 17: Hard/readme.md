@@ -1,4 +1,4 @@
-## Chapter 17 in the Interview Questions section
+## Chapter 17 of the Interview Questions section
 
 #### 1. Add without Plus
 
