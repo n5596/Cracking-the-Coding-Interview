@@ -1,4 +1,4 @@
-## Chapter 8 of the Interview Questions section
+## Chapter 8 of the Interview Questions section.
 
 #### 1. Triple Step: https://leetcode.com/problems/n-th-tribonacci-number/
 
