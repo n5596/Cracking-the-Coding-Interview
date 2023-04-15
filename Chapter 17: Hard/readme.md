@@ -4,7 +4,7 @@
 
   Similar: https://leetcode.com/problems/add-binary/
 
-#### 2. Shuffle
+#### 2. Shuffle: https://leetcode.com/problems/shuffle-an-array/ (**)
 
 #### 3. Random Set
 
